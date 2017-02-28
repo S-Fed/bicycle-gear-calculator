@@ -1,0 +1,63 @@
+Easy Bicycle Gear Calculator/
+Help-Section/
+
+Index:/
+1. What is a Bicycle Gear Calculator/
+
+2. About the Bicycle/
+	2.1 Chainring/
+	2.2 Crankset/
+	2.3 Cog/
+	2.4 Fixed Gear Cog/
+	2.5 Single Speed Cog(Hub)/
+	2.6 General Cycling Terms/
+	
+3. About the Easy Bicycle Gear Calculator/
+	3.1 Basic Gear Calculator/
+	3.2 Advanced Gear Calculator/
+	3.3 Suggested Gear Pairings/
+
+
+
+
+1. What is a Bicycle Gear Calculator?/
+	A Bicycle Gear Calculator takes the Amount of teeth on the Chainring and the amount of teeth on the Cog and calculates a ratio. This can be seen in our Basic Gear Calculator, For explanations of what that gear ratio means use our Advanced Gear Calculator./
+
+
+2.About the Bicycle./
+	
+	2.1 What is the Chainring?/
+		The Chainring can be seen in the picture above is the front most larger gear attached to the Crankset, engaged to the chain it transfers power to the rear wheel through the cog. It contains teeth, spaced evenly which the chain passes over. The amount of these teeth are your Chainring size./
+
+	2.2 What is the Crankset?/
+		The Crankset can be seen in the picture above.It contains Chainrings(one or more), two Crank arms, and the pedals(attached to the crank arms). It is responsible for converting the riders reciprocal motion into circular motion which helps turn the chainring. The rider is connected to the Crankset through the pedals. The Crankset is connected to the bicycle through the Bottom Bracket./
+	
+	2.3 What is the Cog?/
+		The Cog as seen in the picture above is the smaller gear attached to the rear wheel. It contains teeth, spaced evenly which the chain passes over which turns the rear wheel. The amount of these teeth are your Cog size./
+		
+	2.4 What is the Fixed Gear Cog?/
+		On a fixed gear bike, the Cog doesn't have a bearing in it and it is fixed to the back wheel. If you pedal forward, the bike moves forward. If you pedal backwards, the bike moves backwards. The drive train does not coast if in movement./  
+		
+	2.5 What is a Single Speed Cog(Hub)?/
+		These cogs also know as a Hub have a ball bearing system to allow the wheel to spin independently of the cog. If you pedal forward, the bike moves forward. If you pedal backwards, the bike coasts. The drive train coasts if in movement and there is no pedaling./  
+	
+	2.6 General Cycling Terms./
+		Cadence: Is the number of revolutions of the crank per minute. This is the rate at which a cyclist turns the pedals./
+			 
+3. About the Bicycle Gear Calculator./
+	
+	3.1 The Basic Gear Calculator./
+		This is the Traditional Gear Calculator. Simply enter the Cog size, Chainring Size and Tire Diamater(either 29inch/700c or 26inch). Our Basic Calculator will provide the gear ratio and average riding speed at a 80 cadence./
+	
+	3.2 The Advanced Gear Calculator./
+		This works just like our Traditional Gear Calculator. Simply enter the Cog size, Chainring Size and Tire Diamater(either 29inch/700c or 26inch). Our Advanced Calculator will provide the gear ratio and average riding speed at a 80 cadence, and will also provide a explanation of that gear ratio./
+		-Preferred speed by Cog- simply just click on the preferred speed by cog button to open it./
+		-To use the preferred speed by cog function simply just enter your intended riding speed(In Miles per Hour), your riding cadence and your chainring size. This function will calculate the cog size you need for that riding speed and cadence./
+		
+	3.3 Suggested Gear Pairings./
+		This function is suggested for beginners, to use this function just simply enter your intended bike use, experience lever and your riding environment. The Suggested Gear pairings functions will take that information and provide a gear setup suggestion./
+			
+
+	
+	
+	

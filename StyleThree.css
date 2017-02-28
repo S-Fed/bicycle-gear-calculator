@@ -1,0 +1,91 @@
+.root {
+    -fx-background-color: radial-gradient(center 50% -40%, radius 280%, #2F4F4F 45%, #FFFFFF 50%);;
+    
+}
+
+.button {
+    -fx-background-color: #000000,linear-gradient(#9ACD32 50%, #6B8E23 100%),
+        radial-gradient(center 50% -40%, radius 200%, #6B8E23 45%, rgba(230,230,230,0) 50%);
+    -fx-background-radius: 30;
+    -fx-padding: 15 15 15 15;
+    -fx-background-insets: 0,1,1;
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+    -fx-transition-duration: 0.4s;
+}
+
+.button:hover {
+    -fx-background-color: #383838; 
+}
+
+.label {
+    -fx-text-fill: #9ACD32;
+	-fx-font-size: 20px;
+	-fx-font-weight: bold;
+	-fx-font-family: "Cambria";
+	-fx-display: block;
+	-fx-width: 20px;
+}
+
+.text-field {
+-fx-text-box-border: #000000 ;
+ -fx-border-width: 2px ; 
+  -fx-text-fill: #FFFFFF;
+-fx-background-color: #556B2F; 
+-fx-font-family: "Comic Sans MS";
+-fx-font-size: 16px;
+-fx-font-weight: bold;
+-fx-background-insets: 0 -1 -1 -1, 0 0 0 0, 0 -1 3 -1;
+}
+
+.text-field:focused {
+    -fx-background-color: #a9a9a9 ,#383838 , #383838;
+    -fx-background-insets: 0 -1 -1 -1, 0 0 0 0, 0 -1 3 -1;
+}
+
+
+.text-area .scroll-pane .content{
+-fx-background-color: #556B2F; 
+-fx-font-family: "Comic Sans MS";
+-fx-font-size: 20px;
+-fx-font-weight: bold;
+-fx-background-insets: 0 -1 -1 -1, 0 0 0 0, 0 -1 3 -1;
+ }
+.text-area:focused {
+    -fx-background-color: #a9a9a9 , white , white;
+    -fx-background-insets: 0 -1 -1 -1, 0 0 0 0, 0 -1 3 -1;
+}
+
+
+.combo-box
+ {
+  -fx-background-color: #556B2F; 
+  -fx-text-fill: #000000;
+  -fx-min-width: 20;
+  -fx-min-height: 30;
+
+ }
+.combo-box-popup .list-view
+ {
+   -fx-background-color: -fx-box-border, -fx-control-inner-background;
+   -fx-background-insets: 0, 1;
+   /*-fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 8, 0.0 , 0 , 0 );*/
+ }
+.combo-box-popup .list-view .list-cell
+ {
+-fx-background-color: #9ACD32;
+-fx-text-fill: #000000;
+-fx-font-family: Oxygen Light;
+ }
+ .combo-box-popup .list-view .list-cell:hover {
+    -fx-text-fill: #000000;
+}
+.combo-box .cell:selected {
+    -fx-text-fill: #000000;
+}
+
+    .combo-box-popup .list-view .list-cell:hover  
+    {  
+     -fx-background-color: #00FF00 ;  
+    }  

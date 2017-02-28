@@ -1,0 +1,34 @@
+.root {
+    -fx-background-color: radial-gradient(center 50% -40%, radius 275%, #0000FF 45%, #FFFFFF 50%);;
+    
+}
+
+.button {
+    -fx-background-color: #000000,linear-gradient(#008B8B 50%, #00FA9A 100%),
+        radial-gradient(center 50% -40%, radius 200%, #008B8B 45%, rgba(230,230,230,0) 50%);
+    -fx-background-radius: 30;
+    -fx-font-size: 20px;
+    -fx-padding: 25 25 25 25;
+    -fx-background-insets: 0,1,1;
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 3, 0.0 , 0 , 1 );
+    -fx-transition-duration: 0.4s;
+}
+
+.button:pressed {
+    -fx-padding: 23 23 23 23;
+    -fx-background-insets: 2 0 0 0,2 0 3 0, 2 0 4 0, 2 0 5 0;
+}
+.button:hover {
+    -fx-background-color: #383838; 
+}
+
+.label {
+    -fx-text-fill: yellow;
+	-fx-font-size: 42px;
+	-fx-font-weight: bold;
+	-fx-font-family: "Comic Sans MS";
+	-fx-display: block;
+	-fx-width: 150px;
+}
