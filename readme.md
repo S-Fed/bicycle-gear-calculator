@@ -50,42 +50,42 @@ A software development application(Eclipse Neon Preferred).
 
 
 Navigating the Main Menu:
-Basic Gear Calculator Button: When pressed navigates to the Basic Gear Calculator.
-Advanced Gear Calculator Button: When pressed navigates to the Advanced Gear Calculator.
-Suggested Gear Calculator Button: When pressed navigates to the suggested gear pairings section.
-Help Section Button: When pressed opens a pop-up box of help section dialogue.
+-Basic Gear Calculator Button: When pressed navigates to the Basic Gear Calculator.
+-Advanced Gear Calculator Button: When pressed navigates to the Advanced Gear Calculator.
+-Suggested Gear Calculator Button: When pressed navigates to the suggested gear pairings section.
+-Help Section Button: When pressed opens a pop-up box of help section dialogue.
 	
 The Basic Gear Calculator:
-Returns Button: Returns the user to the Main Menu
-Calculate Button: Calculates the gear ratio and average speed when selections from the lists are 	picked. Results are shown in the boxes in the lower right corner.
-Clear Button: Clears the results shown in the boxes in the lower right corner.
-Chainrring List: Select the users chainring size from this list.
-Cog List: Select the users cog size from this list.
-Tire Size: Select the users tires size from this list.
+-Returns Button: Returns the user to the Main Menu
+-Calculate Button: Calculates the gear ratio and average speed when selections from the lists are picked. Results are shown in the boxes in the lower right corner.
+-Clear Button: Clears the results shown in the boxes in the lower right corner.
+-Chainrring List: Select the users chainring size from this list.
+-Cog List: Select the users cog size from this list.
+-Tire Size: Select the users tires size from this list.
 
 The Advanced Gear Calculator:
-Returns Button: Returns the user to the Main Menu
-Calculate Button: Calculates the gear ratio and average speed when selections from the lists are 	picked. Also Generates Comments on that gear ration. Results are shown in the boxes in the lower right corner.
-Clear Button: Clears the results shown in the boxes in the lower right corner.
-Chainrring List: Select the users chainring size from this list.
-Cog List: Select the users cog size from this list.
-Tire Size: Select the users tires size from this list.
-Preferred Cog by Cadence Button: Opens a Pop up window to a different Function
-Preferred Cog by Cadence: Calculate Button: Calculates the suggested cog when selections from the lists are picked. Results are shown in the  suggested cog box in the lower right corner.
-Clear Button: Clears the results shown in the suggested cog box.
-Chainrring List: Select the users chainring size from this list.
-Cadence List: Select the users riding cadence from this list.
-Intended Riding Speed: Select the users intended average riding speed from this list. 
+-Returns Button: Returns the user to the Main Menu
+-Calculate Button: Calculates the gear ratio and average speed when selections from the lists are 	picked. Also Generates Comments on that gear ration. Results are shown in the boxes in the lower right corner.
+-Clear Button: Clears the results shown in the boxes in the lower right corner.
+-Chainrring List: Select the users chainring size from this list.
+-Cog List: Select the users cog size from this list.
+-Tire Size: Select the users tires size from this list.
+-Preferred Cog by Cadence Button: Opens a Pop up window to a different Function
+-Preferred Cog by Cadence: Calculate Button: Calculates the suggested cog when selections from the lists are picked. Results are shown in the  suggested cog box in the lower right corner.
+-Clear Button: Clears the results shown in the suggested cog box.
+-Chainrring List: Select the users chainring size from this list.
+-Cadence List: Select the users riding cadence from this list.
+-Intended Riding Speed: Select the users intended average riding speed from this list. 
 	
 	*To close this section due so by clicking the x in the upper right hand corner. 
 
 The Suggested Gear Pairings Section:
-Returns Button: Returns the user to the Main Menu
-Calculate Button: Calculates the suggested gear pairing when selections from the lists are 	picked. Results are shown in the suggested gear pairing box in the lower right corner.
-Clear Button: Clears the results shown in the boxes in the lower right corner.
-Bike Use List: Select the users intended riding from this list.
-Experience Level List: Select the users experience level from this list.
-Riding Environment: Select the users intended rider enviroment from this list.
+-Returns Button: Returns the user to the Main Menu
+-Calculate Button: Calculates the suggested gear pairing when selections from the lists are 	picked. Results are shown in the suggested gear pairing box in the lower right corner.
+-Clear Button: Clears the results shown in the boxes in the lower right corner.
+-Bike Use List: Select the users intended riding from this list.
+-Experience Level List: Select the users experience level from this list.
+-Riding Environment: Select the users intended rider enviroment from this list.
 
 Help Section:
 	The pop up window will open up a dialogue box containing the help menu.
